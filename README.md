@@ -11,4 +11,6 @@ cat input.txt | swift run ElementIO 16:10
 ```
 
 ## Test
-`swift test`
+```
+swift test
+```
